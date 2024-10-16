@@ -1,0 +1,15 @@
+.pizzainfo{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.info{
+    border: 1px solid ;
+}
+.info h2{
+    width:400px;
+}
+.info img{
+    width: 400px;
+    height: 400px;
+}
